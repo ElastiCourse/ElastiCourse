@@ -1,7 +1,7 @@
 import fs from "fs";
 import parser from "xml2json";
 
-const FEED_URL = "https://www.elasticourse.com/feed.xml";
+const FEED_URL = "https://www.elasticourse.com/index.xml";
 const TAG_OPEN = `<!-- FEED-START -->`;
 const TAG_CLOSE = `<!-- FEED-END -->`;
 
