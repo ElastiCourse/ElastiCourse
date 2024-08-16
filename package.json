@@ -1,0 +1,15 @@
+{
+  "name": "ElastiCourse",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:ElastiCourse/ElastiCourse.git",
+  "author": "ElastiCourse <elasticourse@users.noreply.github.com>",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "build": "node --experimental-modules index.js"
+  },
+  "dependencies": {
+    "xml2json": "^0.12.0"
+  }
+}
