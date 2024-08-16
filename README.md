@@ -1,4 +1,4 @@
-# Welcome to ElastiCOurse Github 👋
+# Welcome to ElastiCourse Github 👋
 
 ![Fetch recent blog posts](https://github.com/ElastiCourse/ElastiCourse/workflows/Fetch%20recent%20blog%20posts/badge.svg)
 
