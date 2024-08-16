@@ -1,8 +1,7 @@
 name: Fetch recent blog posts
 on:
   schedule:
-#    - cron: "* */6 * * *"
-    - cron: "*/5 * * * *"
+    - cron: "* */12 * * *"
 
 jobs:
   fetch-recent-blog-posts:
