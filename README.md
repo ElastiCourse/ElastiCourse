@@ -1,14 +1,13 @@
 # Welcome to ElastiCourse Github 👋
 
 [![Fetch recent blog posts](https://github.com/ElastiCourse/ElastiCourse/actions/workflows/fetch-recent-blog-posts.yml/badge.svg)](https://github.com/ElastiCourse/ElastiCourse/actions/workflows/fetch-recent-blog-posts.yml)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/40e6bfc0-e773-4e59-95a8-bacf6684756e/deploy-status)](https://app.netlify.com/sites/elasticourse-stack/deploys)
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/1ca2f4a0-ae49-4ef3-92d0-e51100d5b0e9/deploy-status)](https://app.netlify.com/sites/elasticourse/deploys)
 
 [ElastiCourse.com](https://www.elasticourse.com)
 
 Empowering your Skills & Knowledge.
 
-## Recent blog posts 📝
+## 📝 Recent blog posts 
 
 <!-- FEED-START -->
 - [How to Install Docker Engine on Linux Mint](https://www.elasticourse.com/how-to-install-docker-engine-on-linux-mint/)
