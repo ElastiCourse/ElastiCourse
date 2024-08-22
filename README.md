@@ -4,8 +4,11 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/1ca2f4a0-ae49-4ef3-92d0-e51100d5b0e9/deploy-status)](https://app.netlify.com/sites/elasticourse/deploys)
 
 [ElastiCourse.com](https://www.elasticourse.com)
+Empowering your Skills.
 
-Empowering your Skills & Knowledge.
+[Udemy Classes](https://www.udemy.com/user/elasticourse/)
+
+
 
 ## 📝 Recent blog posts 
 
