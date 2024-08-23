@@ -19,9 +19,9 @@ Check my courses on Udemy.
 ## 📝 Recent blog posts 
 
 <!-- FEED-START -->
+- [How to Create a Free AWS EC2 T4g Instance](https://www.elasticourse.com/how-to-create-a-free-aws-ec2-t4g-instance/)
 - [How to Install Docker Engine on Linux Mint](https://www.elasticourse.com/how-to-install-docker-engine-on-linux-mint/)
 - [How to Update Docker Container and Compose Stacks](https://www.elasticourse.com/how-to-update-docker-container-and-compose-stacks/)
 - [Intel T3 vs AMD T3A benchmark in AWS](https://www.elasticourse.com/intel-t3-vs-amd-t3a-benchmark-in-aws/)
 - [How to Upgrade Bitnami Wordpress stack](https://www.elasticourse.com/how-to-upgrade-bitnami-wordpress-stack/)
-- [How to SSH using private key on Windows](https://www.elasticourse.com/how-to-ssh-using-private-key-on-windows/)
 <!-- FEED-END -->
