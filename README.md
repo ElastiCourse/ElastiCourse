@@ -1,9 +1,6 @@
 # Welcome to ElastiCourse Github 👋
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/1ca2f4a0-ae49-4ef3-92d0-e51100d5b0e9/deploy-status)](https://app.netlify.com/sites/elasticourse/deploys)
-[![ElastiCourse Status](https://uptime.services.elasticourse.com/api/badge/1/status)](https://www.elasticourse.com)
-[![ElastiCourse Uptime](https://uptime.services.elasticourse.com/api/badge/1/uptime)](https://www.elasticourse.com)
-[![ElastiCourse Ping](https://uptime.services.elasticourse.com/api/badge/1/avg-response)](https://www.elasticourse.com)
 [![Fetch recent blog posts](https://github.com/ElastiCourse/ElastiCourse/actions/workflows/fetch-recent-blog-posts.yml/badge.svg)](https://github.com/ElastiCourse/ElastiCourse/actions/workflows/fetch-recent-blog-posts.yml)
 
 
